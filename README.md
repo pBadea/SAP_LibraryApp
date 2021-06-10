@@ -1,8 +1,8 @@
 # SAP_LibraryApp
 This is an UI5 project for my university
 
-### To run
+## To run
 inside booklist folder:
+### npm install
 
-npm install
-npm run start
+### npm run start
